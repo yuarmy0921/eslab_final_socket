@@ -1,4 +1,4 @@
-# ESLAB Final - Socket Client + Ultrasonic Sensor + Accelerometer
+# ESLAB Final - Mimicking Self-driving Cars (Socket Client + Ultrasonic Sensor + Accelerometer)
 
 ## Overview
 - 5 HCSR-04 ultrasonic modules connected to a BL475E-IOT01A board
