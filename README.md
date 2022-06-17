@@ -11,8 +11,8 @@
 ![image](https://user-images.githubusercontent.com/55664878/174325206-3c94e842-6a94-4d91-b6ba-695463c91207.png)
 - Revise HOSTNAME to your server ip
 
-![image](https://user-images.githubusercontent.com/55664878/174325478-5f7c087b-0925-428f-8d39-289bd5e84ecc.png)
-![image](https://user-images.githubusercontent.com/55664878/174326271-9347d530-dd6b-4a9d-8886-4fcd3540e5fc.png)
+![image](https://user-images.githubusercontent.com/55664878/174325478-5f7c087b-0925-428f-8d39-289bd5e84ecc.png) \
+![image](https://user-images.githubusercontent.com/55664878/174326271-9347d530-dd6b-4a9d-8886-4fcd3540e5fc.png) \
 
 - Connect TRIG and ECHO pins of 5 HCSR-04 modules to the board according to the pin assignment presented above
 - Connect 5V pins to the 5V slot of the board
